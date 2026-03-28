@@ -35,20 +35,24 @@ Alongside the core logic, the application includes VCL forms (`CodTitlu`, `CodDe
 ### Images
 **Title screen:**
 
-<img width="812" height="506" alt="5ec6e62d-7b1c-4ede-8b8d-44f44f623d02" src="https://github.com/user-attachments/assets/1fee6172-c2df-4f23-b28b-8ffff17e5f81" />
+<img width="812" height="506" alt="5ec6e62d-7b1c-4ede-8b8d-44f44f623d02" src="https://github.com/user-attachments/assets/181e230c-cf1d-4968-bc9c-6baf7de638e8" />
+
 
 **Main word with definiton and synonyms:**
 
-<img width="634" height="481" alt="a8bacfc6-6742-4b98-a87e-8317f1c8ad71" src="https://github.com/user-attachments/assets/205204a5-ae60-45d6-9962-3aa2819d0a99" />
+<img width="636" height="481" alt="444e0712-8a5a-49f1-8d3c-a6d4b982800f" src="https://github.com/user-attachments/assets/f08d8e6c-35b6-45e6-8416-8522ed0255b7" />
+
 
 **Synonym:**
 
-<img width="637" height="481" alt="2599af8f-11af-450d-bf28-2c4c203e105f" src="https://github.com/user-attachments/assets/5786880a-2018-4686-8766-0f28d407939b" />
+<img width="637" height="481" alt="2599af8f-11af-450d-bf28-2c4c203e105f" src="https://github.com/user-attachments/assets/db0f6747-c4ec-446d-9515-bb5c3f49d3cc" />
+
 
 
 **Antonym:**
 
-<img width="637" height="479" alt="db7aa8a6-63eb-44fe-8f4b-0d4709f65763" src="https://github.com/user-attachments/assets/dda3533f-a4c6-463e-b73c-496c49c42a60" />
+
+<img width="637" height="479" alt="db7aa8a6-63eb-44fe-8f4b-0d4709f65763" src="https://github.com/user-attachments/assets/9f95fbb8-1b11-4504-874a-259bd6f9a1b7" />
 
 
 
